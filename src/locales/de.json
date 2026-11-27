@@ -62,12 +62,12 @@
     "f2L1": "Das Budget ist bis Jahresende genehmigt.",
     "f2L2": "Dann fangen wir mit dem Design an.",
     "f2L3": "Abgemacht, die Entwürfe bis Freitag.",
-    "f3Title": "Entscheidungen und Aufgaben automatisch festhalten",
+    "f3Title": "Das Meeting-Protokoll schreibt sich selbst",
     "f3Text": "Thema, Zusammenfassung, Entscheidungen, Aufgaben und offene Fragen bleiben im Gespräch auf dem aktuellen Stand. Jeder Eintrag führt zur passenden Textstelle.",
     "f3DecisionText": "mit dem Design anfangen",
     "f3TaskText": "Entwürfe bis Freitag",
     "f3QuestionText": "wer leitet die Tests?",
-    "langH2": "25 Sprachen ohne Einrichtung",
+    "langH2": "Live-Untertitel in 25 Sprachen, ohne Einrichtung",
     "langSub": "DialogTrack erkennt jede dieser Sprachen von selbst. Vor dem Anruf müssen Sie nichts auswählen. Wählen Sie hier eine Sprache für den Beispieluntertitel.",
     "langPickAria": "Sprache des Beispieluntertitels",
     "trTitle": "Live-Übersetzung",
@@ -308,8 +308,8 @@
     "leadTime": "Von der Anmeldung bis zur Einladung dauert es derzeit etwa [ZEIT]."
   },
   "seo": {
-    "title": "KI-Notizen und Live-Untertitel für den Mac | DialogTrack",
-    "description": "DialogTrack zeigt Live-Untertitel in 25 Sprachen für Zoom, Meet, Teams und alle anderen Anrufe auf Ihrem Mac. Lokal, ohne Bot. Testen Sie die kostenlose Beta.",
+    "title": "Live-Untertitel und KI-Notizen für Meetings am Mac | DialogTrack",
+    "description": "Live-Untertitel in 25 Sprachen, Meeting-Transkription und KI-Notizen für Zoom, Meet und Teams auf Ihrem Mac. Lokal, ohne Cloud und ohne Bot. Kostenlose Beta.",
     "ogTitle": "Live-Untertitel für jeden Anruf auf Ihrem Mac in 25 Sprachen",
     "ogLine": "Lokal · Ohne Bot · Kostenlose Beta",
     "thanksTitle": "Sie stehen auf der Beta-Liste | DialogTrack"

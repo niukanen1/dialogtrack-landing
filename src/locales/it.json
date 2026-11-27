@@ -8,10 +8,10 @@
     "navFaq": "FAQ",
     "cta": "Partecipa alla beta",
     "langAria": "Lingua del sito",
-    "h1a": "Sottotitoli in diretta",
+    "h1a": "Sottotitoli in tempo reale",
     "h1mark": "in 25 lingue",
     "h1b": "per ogni chiamata sul tuo Mac",
-    "heroSub": "DialogTrack registra la tua voce e quella di chi parla con te su Zoom, Meet, Teams, WhatsApp o qualsiasi altra app. I sottotitoli appaiono in diretta sotto il notch. Quando riagganci, trovi già le decisioni e le cose da fare. Tutto avviene sul tuo Mac. Nessuna registrazione lascia il computer.",
+    "heroSub": "DialogTrack registra la tua voce e quella di chi parla con te su Zoom, Meet, Teams, WhatsApp o qualsiasi altra app. I sottotitoli appaiono in tempo reale sotto il notch. Quando riagganci, trovi già le decisioni e le cose da fare. Tutto avviene sul tuo Mac. Nessuna registrazione lascia il computer.",
     "heroFormAria": "Richiesta di accesso alla beta",
     "emailLabel": "Email",
     "heroBtn": "Partecipa alla beta",
@@ -55,22 +55,22 @@
       "Webex"
     ],
     "howH2": "Segui ogni parola senza prendere appunti",
-    "f1Title": "Sottotitoli in diretta sopra ogni app",
+    "f1Title": "Sottotitoli in tempo reale sopra ogni app",
     "f1Text": "La finestra dei sottotitoli resta sopra Zoom o Meet. Le parole appaiono sullo schermo mentre le persone parlano, senza dover scegliere prima la lingua.",
     "f2Title": "Guarda chi ha detto cosa",
     "f2Text": "Durante la chiamata l’app distingue le voci e separa gli interventi. Con un clic dai un nome a chi parla e quel nome resta nella registrazione.",
     "f2L1": "Il budget è approvato fino a fine anno.",
     "f2L2": "Allora iniziamo dal design.",
     "f2L3": "D’accordo, i mockup per venerdì.",
-    "f3Title": "Decisioni e attività si annotano da sole",
+    "f3Title": "Gli appunti della riunione si scrivono da soli",
     "f3Text": "Argomento, riepilogo, decisioni, attività e domande aperte si aggiornano nel corso della chiamata. Ogni voce rimanda al passaggio da cui è tratta.",
     "f3DecisionText": "iniziare dal design",
     "f3TaskText": "mockup per venerdì",
     "f3QuestionText": "chi segue i test?",
-    "langH2": "25 lingue senza configurare nulla",
+    "langH2": "Sottotitoli in tempo reale in 25 lingue, senza configurare nulla",
     "langSub": "DialogTrack riconosce da sé ciascuna di queste lingue. Prima della chiamata non devi scegliere nulla. Scegli una lingua per vedere un sottotitolo di esempio.",
     "langPickAria": "Lingua del sottotitolo di esempio",
-    "trTitle": "Traduzione in diretta",
+    "trTitle": "Traduzione in tempo reale",
     "trText": "Puoi leggere i sottotitoli tradotti mentre ascolti. La traduzione inglese ↔ russo è già disponibile. Durante la beta aggiungeremo altre combinazioni. Indica nella richiesta quella che ti serve.",
     "afterTitle": "Dopo la chiamata",
     "a1Title": "Archivio per progetto",
@@ -120,7 +120,7 @@
         "c": "Sì"
       },
       {
-        "label": "Sottotitoli in diretta sopra ogni app",
+        "label": "Sottotitoli in tempo reale sopra ogni app",
         "a": "Non specificato",
         "b": "Non specificato",
         "c": "Sì, in 25 lingue"
@@ -131,7 +131,7 @@
     "who": [
       {
         "title": "Lavori in più lingue",
-        "text": "Durante una chiamata in tedesco, spagnolo o polacco leggi i sottotitoli in diretta. Alla fine ti resta un elenco di cose da fare."
+        "text": "Durante una chiamata in tedesco, spagnolo o polacco leggi i sottotitoli in tempo reale. Alla fine ti resta un elenco di cose da fare."
       },
       {
         "title": "Conduci interviste e fai ricerca",
@@ -169,13 +169,13 @@
     "freeNote": "Per sempre",
     "freeItems": [
       "Registrazione di chiamata e microfono",
-      "Sottotitoli in diretta",
+      "Sottotitoli in tempo reale",
       "Trascrizione e archivio con ricerca"
     ],
     "proName": "Pro",
     "proNote": "[PREZZO] € al mese o [PREZZO] € all’anno",
     "proItems": [
-      "Traduzione in diretta",
+      "Traduzione in tempo reale",
       "Punti chiave: decisioni e attività",
       "Contesto del progetto, export in SRT e VTT",
       "Registrazione dello schermo"
@@ -193,7 +193,7 @@
       },
       {
         "q": "Quali lingue sono supportate?",
-        "a": "Il riconoscimento vocale copre 25 lingue: bulgaro, ceco, croato, danese, estone, finlandese, francese, greco, inglese, italiano, lettone, lituano, maltese, olandese, polacco, portoghese, rumeno, russo, slovacco, sloveno, spagnolo, svedese, tedesco, ucraino e ungherese. La traduzione in diretta funziona già tra inglese e russo. Sono in arrivo altre combinazioni."
+        "a": "Il riconoscimento vocale copre 25 lingue: bulgaro, ceco, croato, danese, estone, finlandese, francese, greco, inglese, italiano, lettone, lituano, maltese, olandese, polacco, portoghese, rumeno, russo, slovacco, sloveno, spagnolo, svedese, tedesco, ucraino e ungherese. La traduzione in tempo reale funziona già tra inglese e russo. Sono in arrivo altre combinazioni."
       },
       {
         "q": "Gli altri vedranno che sto registrando?",
@@ -201,7 +201,7 @@
       },
       {
         "q": "Che differenza c’è rispetto a Otter o Granola?",
-        "a": "Questi servizi elaborano le registrazioni sui loro server. DialogTrack fa tutto sul tuo Mac, mostra i sottotitoli in diretta sopra ogni app e capisce 25 lingue."
+        "a": "Questi servizi elaborano le registrazioni sui loro server. DialogTrack fa tutto sul tuo Mac, mostra i sottotitoli in tempo reale sopra ogni app e capisce 25 lingue."
       },
       {
         "q": "Quanto costa?",
@@ -308,9 +308,9 @@
     "leadTime": "Al momento, il tempo di attesa tra la richiesta e l’invito è di circa [TEMPO]."
   },
   "seo": {
-    "title": "Appunti con IA e sottotitoli in diretta per Mac | DialogTrack",
-    "description": "DialogTrack mostra sottotitoli in diretta in 25 lingue su Zoom, Meet, Teams e in ogni altra chiamata sul tuo Mac. In locale, senza bot. Prova la beta gratis.",
-    "ogTitle": "Sottotitoli in diretta in 25 lingue per ogni chiamata sul tuo Mac",
+    "title": "Sottotitoli in tempo reale e trascrizione riunioni | DialogTrack",
+    "description": "Sottotitoli in tempo reale in 25 lingue, trascrizione delle riunioni su Zoom, Meet e Teams e appunti con IA sul tuo Mac. In locale, senza bot. Beta gratis.",
+    "ogTitle": "Sottotitoli in tempo reale in 25 lingue per ogni chiamata sul tuo Mac",
     "ogLine": "In locale · Senza bot · Beta gratuita",
     "thanksTitle": "Sei nella lista per la beta | DialogTrack"
   }

@@ -62,12 +62,12 @@
     "f2L1": "El presupuesto está aprobado hasta fin de año.",
     "f2L2": "Entonces empezamos por el diseño.",
     "f2L3": "De acuerdo, las maquetas para el viernes.",
-    "f3Title": "Las decisiones y tareas se anotan solas",
+    "f3Title": "Las notas de la reunión se escriben solas",
     "f3Text": "El tema, el resumen, las decisiones, las tareas y las preguntas pendientes se actualizan durante la llamada. Cada punto enlaza con la frase de la que salió.",
     "f3DecisionText": "empezar por el diseño",
     "f3TaskText": "maquetas para el viernes",
     "f3QuestionText": "¿quién se encarga de las pruebas?",
-    "langH2": "25 idiomas sin configurar nada",
+    "langH2": "Subtítulos en vivo en 25 idiomas, sin configurar nada",
     "langSub": "DialogTrack reconoce cada uno de estos idiomas automáticamente. Antes de llamar no tienes que elegir nada. Selecciona un idioma para ver un subtítulo de ejemplo.",
     "langPickAria": "Idioma del subtítulo de ejemplo",
     "trTitle": "Traducción en vivo",
@@ -308,9 +308,9 @@
     "leadTime": "El plazo actual entre la solicitud y la invitación es de aproximadamente [TIEMPO]."
   },
   "seo": {
-    "title": "Notas con IA y subtítulos en directo para Mac | DialogTrack",
-    "description": "DialogTrack muestra subtítulos en directo en 25 idiomas en Zoom, Meet, Teams y cualquier llamada en tu Mac. Todo en tu equipo, sin bots. Únete a la beta gratis.",
-    "ogTitle": "Subtítulos en directo en 25 idiomas para todas tus llamadas en Mac",
+    "title": "Subtítulos en vivo y notas de reuniones con IA | DialogTrack",
+    "description": "DialogTrack muestra subtítulos en vivo en 25 idiomas y usa IA para tomar notas de reuniones de Zoom, Meet o Teams en tu Mac. Sin bots ni nube. Beta gratis.",
+    "ogTitle": "Subtítulos en vivo en 25 idiomas para todas tus llamadas en Mac",
     "ogLine": "En tu Mac · Sin bots · Beta gratis",
     "thanksTitle": "Estás en la lista de la beta | DialogTrack"
   }

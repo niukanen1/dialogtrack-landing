@@ -62,12 +62,12 @@
     "f2L1": "Le budget est validé jusqu’à la fin de l’année.",
     "f2L2": "Alors on commence par le design.",
     "f2L3": "D’accord, les maquettes pour vendredi.",
-    "f3Title": "Les décisions et les tâches se notent toutes seules",
+    "f3Title": "Le compte rendu de réunion s’écrit tout seul",
     "f3Text": "Le sujet, le résumé, les décisions, les tâches et les questions en suspens se précisent au fil de l’appel. Chaque élément renvoie au passage dont il est tiré.",
     "f3DecisionText": "commencer par le design",
     "f3TaskText": "maquettes pour vendredi",
     "f3QuestionText": "qui s’occupe des tests ?",
-    "langH2": "25 langues sans réglage",
+    "langH2": "Sous-titres en direct en 25 langues, sans réglage",
     "langSub": "DialogTrack reconnaît chacune de ces langues automatiquement. Aucun choix à faire avant l’appel. Sélectionnez une langue pour voir un exemple de sous-titre.",
     "langPickAria": "Langue du sous-titre d’exemple",
     "trTitle": "Traduction en direct",
@@ -308,8 +308,8 @@
     "leadTime": "Il faut actuellement compter environ [DÉLAI] entre la demande et l’invitation."
   },
   "seo": {
-    "title": "Notes par IA et sous-titres en direct sur Mac | DialogTrack",
-    "description": "DialogTrack sous-titre en direct vos appels sur Mac en 25 langues, sur Zoom, Meet, Teams et les autres applis. En local, sans bot. Testez la bêta gratuite.",
+    "title": "Sous-titres en direct et compte rendu de réunion IA | DialogTrack",
+    "description": "Sous-titres en direct en 25 langues, transcription et compte rendu de réunion par IA pour Zoom, Meet et Teams sur votre Mac. En local, sans bot. Bêta gratuite.",
     "ogTitle": "Des sous-titres en direct en 25 langues pour tous vos appels sur Mac",
     "ogLine": "En local · Sans bot · Bêta gratuite",
     "thanksTitle": "Vous êtes sur la liste de la bêta | DialogTrack"

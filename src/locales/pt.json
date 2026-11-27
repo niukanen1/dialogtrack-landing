@@ -62,12 +62,12 @@
     "f2L1": "O orçamento está aprovado até o fim do ano.",
     "f2L2": "Então vamos começar pelo design.",
     "f2L3": "Fechado, layouts prontos até sexta.",
-    "f3Title": "Decisões e tarefas são anotadas automaticamente",
+    "f3Title": "As anotações da reunião se escrevem sozinhas",
     "f3Text": "O assunto, o resumo, as decisões, as tarefas e as perguntas em aberto são atualizados ao longo da chamada. Cada item tem um link para a fala de origem.",
     "f3DecisionText": "começar pelo design",
     "f3TaskText": "layouts até sexta",
     "f3QuestionText": "quem vai cuidar dos testes?",
-    "langH2": "25 idiomas sem configurar nada",
+    "langH2": "Legendas ao vivo em 25 idiomas, sem configurar nada",
     "langSub": "O DialogTrack reconhece cada um desses idiomas automaticamente. Você não precisa selecionar nada antes da chamada. Escolha um idioma para ver um exemplo de legenda.",
     "langPickAria": "Idioma da legenda de exemplo",
     "trTitle": "Tradução ao vivo",
@@ -308,8 +308,8 @@
     "leadTime": "Hoje, o prazo entre a inscrição e o convite é de cerca de [TEMPO]."
   },
   "seo": {
-    "title": "Notas com IA e legendas ao vivo para Mac | DialogTrack",
-    "description": "O DialogTrack exibe legendas ao vivo em 25 idiomas no Zoom, Meet, Teams e em qualquer chamada no seu Mac. Tudo no aparelho, sem bot. Participe do beta grátis.",
+    "title": "Legendas ao vivo e transcrição de reuniões com IA | DialogTrack",
+    "description": "Legendas ao vivo em 25 idiomas, transcrição de reuniões do Zoom, Meet e Teams e anotações com IA no seu Mac. Tudo no aparelho, sem bot. Beta grátis.",
     "ogTitle": "Legendas ao vivo em 25 idiomas para todas as suas chamadas no Mac",
     "ogLine": "No seu Mac · Sem bot · Beta grátis",
     "thanksTitle": "Você está na lista do beta | DialogTrack"

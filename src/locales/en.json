@@ -1,7 +1,7 @@
 {
   "seo": {
-    "title": "AI note taker for Mac with live captions | DialogTrack",
-    "description": "DialogTrack shows live captions for Zoom, Meet, Teams and any other call on your Mac, in 25 languages. It runs on-device with no bot. Join the free beta.",
+    "title": "Live captions and AI meeting notes for Mac | DialogTrack",
+    "description": "DialogTrack shows live captions for Zoom, Meet, Teams and other calls on your Mac, in 25 languages, and writes the meeting notes. On-device, no bot. Free beta.",
     "ogTitle": "Live captions for every call on your Mac, in 25 languages",
     "ogLine": "On-device · No bot · Free beta",
     "thanksTitle": "You are on the beta list | DialogTrack"
@@ -69,12 +69,12 @@
     "f2L1": "The budget is approved until the end of the year.",
     "f2L2": "Then we start with design.",
     "f2L3": "Agreed, mockups by Friday.",
-    "f3Title": "Decisions and tasks collect themselves",
+    "f3Title": "Meeting notes that write themselves",
     "f3Text": "Topic, summary, decisions, tasks and open questions update as the call goes on. Each item links to the line it came from.",
     "f3DecisionText": "start with design",
     "f3TaskText": "mockups by Friday",
     "f3QuestionText": "who runs testing?",
-    "langH2": "25 languages, nothing to set up",
+    "langH2": "Live captions in 25 languages, nothing to set up",
     "langSub": "DialogTrack recognises each of these languages on its own. You pick nothing before the call. Choose a language to see a caption.",
     "langPickAria": "Language of the sample caption",
     "trTitle": "Live translation",

@@ -62,12 +62,12 @@
     "f2L1": "Mamy zatwierdzony budżet do końca roku.",
     "f2L2": "To zacznijmy od projektu.",
     "f2L3": "Zgoda, makiety na piątek.",
-    "f3Title": "Decyzje i zadania zapisują się same",
+    "f3Title": "Notatki ze spotkania piszą się same",
     "f3Text": "Temat, podsumowanie, decyzje, zadania i otwarte pytania aktualizują się w trakcie rozmowy. Każdy punkt prowadzi do wypowiedzi, z której pochodzi.",
     "f3DecisionText": "zacząć od projektu",
     "f3TaskText": "makiety na piątek",
     "f3QuestionText": "kto poprowadzi testy?",
-    "langH2": "25 języków bez konfiguracji",
+    "langH2": "Napisy na żywo w 25 językach, bez konfiguracji",
     "langSub": "DialogTrack sam rozpoznaje każdy z tych języków. Przed rozmową niczego nie wybierasz. Wybierz język tutaj, aby zobaczyć przykładowy napis.",
     "langPickAria": "Język przykładowego napisu",
     "trTitle": "Tłumaczenie na żywo",
@@ -308,8 +308,8 @@
     "leadTime": "Orientacyjny czas od zgłoszenia do zaproszenia to teraz [CZAS]."
   },
   "seo": {
-    "title": "Notatki AI i napisy na żywo na Macu | DialogTrack",
-    "description": "DialogTrack wyświetla napisy na żywo w 25 językach w rozmowach na Macu w Zoom, Meet, Teams i innych aplikacjach. Lokalnie, bez bota. Dołącz do bety za darmo.",
+    "title": "Napisy na żywo i notatki ze spotkań AI na Macu | DialogTrack",
+    "description": "Napisy na żywo w 25 językach, transkrypcja spotkań w Zoom, Meet i Teams oraz notatki AI na twoim Macu. Wszystko lokalnie, bez bota. Beta za darmo.",
     "ogTitle": "Napisy na żywo w 25 językach podczas każdej rozmowy na Macu",
     "ogLine": "Na Macu · Bez bota · Bezpłatna beta",
     "thanksTitle": "Jesteś na liście uczestników bety | DialogTrack"
