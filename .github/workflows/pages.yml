@@ -17,10 +17,10 @@ jobs:
       VITE_FORM_ENDPOINT: ${{ vars.VITE_FORM_ENDPOINT }}
       VITE_TURNSTILE_SITEKEY: ${{ vars.VITE_TURNSTILE_SITEKEY }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           persist-credentials: false
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
           node-version: 24
           cache: npm
@@ -44,10 +44,9 @@ jobs:
       - if: github.event_name != 'pull_request' && vars.SITE_DOMAIN != ''
         run: npm run check -- --release
       - if: github.event_name != 'pull_request'
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: dist
-          include-hidden-files: true
 
   deploy:
     if: github.event_name != 'pull_request'
