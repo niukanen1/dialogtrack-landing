@@ -1,0 +1,11 @@
+{
+  "title": "Privacy policy",
+  "draft": "Draft: not reviewed by a lawyer yet.",
+  "paragraphs": [
+    "[LEGAL NAME], [ADDRESS], collects your email address, the languages of your calls, your role, Mac type, macOS version, call apps, page language and the time of your request.",
+    "We use this information to send beta invitations through [EMAIL SERVICE] and decide what to build. We process it with your consent. You can withdraw consent by emailing [CONTACT EMAIL]. We delete your data on request and when the beta ends.",
+    "The site sets no analytics or advertising cookies. GitHub Pages processes IP addresses in its server logs. Cloudflare Turnstile protects the signup form.",
+    "DialogTrack processes recordings on your Mac. This website never receives your recordings or transcripts."
+  ],
+  "notFound": "404 — Page not found"
+}

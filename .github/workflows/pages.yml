@@ -1,0 +1,67 @@
+name: DialogTrack Pages
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      SITE_DOMAIN: ${{ vars.SITE_DOMAIN }}
+      SITE_PRICING: ${{ vars.SITE_PRICING }}
+      VITE_FORM_ENDPOINT: ${{ vars.VITE_FORM_ENDPOINT }}
+      VITE_TURNSTILE_SITEKEY: ${{ vars.VITE_TURNSTILE_SITEKEY }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      # With a custom domain (repository variable SITE_DOMAIN) the site is the indexable production copy at the root.
+      # Without it the site is a noindex preview at https://<owner>.github.io/<repo>/.
+      - name: Site address
+        run: |
+          if [ -n "$SITE_DOMAIN" ]; then
+            echo "SITE_URL=https://$SITE_DOMAIN" >> "$GITHUB_ENV"
+            echo "SITE_BASE_PATH=/" >> "$GITHUB_ENV"
+          else
+            echo "SITE_URL=https://${GITHUB_REPOSITORY_OWNER}.github.io" >> "$GITHUB_ENV"
+            echo "SITE_BASE_PATH=/${GITHUB_REPOSITORY#*/}/" >> "$GITHUB_ENV"
+          fi
+      - run: npm ci
+      - run: npm run lint
+      - run: npm run typecheck
+      - run: npm test
+      - run: npm run build
+      - run: npm run check
+      - if: github.event_name != 'pull_request' && vars.SITE_DOMAIN != ''
+        run: npm run check -- --release
+      - if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+          include-hidden-files: true
+
+  deploy:
+    if: github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    concurrency:
+      group: pages-deploy
+      cancel-in-progress: false
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

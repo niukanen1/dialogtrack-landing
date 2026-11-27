@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "noEmit": true,
+    "checkJs": true,
+    "allowJs": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "maxNodeModuleJsDepth": 0,
+    "noImplicitAny": false,
+    "types": ["node", "mocha"]
+  },
+  "include": ["test/**/*.js", "src/public-env.d.ts", "src/seo.js", "src/site.js", "src/translations.js"],
+  "exclude": ["node_modules"]
+}

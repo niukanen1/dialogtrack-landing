@@ -1,0 +1,317 @@
+{
+  "seo": {
+    "title": "AI note taker for Mac with live captions | DialogTrack",
+    "description": "DialogTrack shows live captions for Zoom, Meet, Teams and any other call on your Mac, in 25 languages. It runs on-device with no bot. Join the free beta.",
+    "ogTitle": "Live captions for every call on your Mac, in 25 languages",
+    "ogLine": "On-device · No bot · Free beta",
+    "thanksTitle": "You are on the beta list | DialogTrack"
+  },
+  "main": {
+    "navAria": "Page sections",
+    "navHow": "How it works",
+    "navLang": "Languages",
+    "navPrivacy": "Privacy",
+    "navBeta": "Beta and pricing",
+    "navFaq": "FAQ",
+    "cta": "Join the beta",
+    "langAria": "Site language",
+    "h1a": "Live captions for every call on your Mac,",
+    "h1mark": "in 25 languages",
+    "h1b": "",
+    "heroSub": "DialogTrack records both sides of a call in Zoom, Meet, Teams, WhatsApp or any other app. It shows live captions under the notch and collects decisions and tasks by the time you hang up. Everything runs on your Mac. No recording leaves it.",
+    "heroFormAria": "Beta request",
+    "emailLabel": "Email",
+    "heroBtn": "Join the beta",
+    "sentHero": "Done, you are on the list.",
+    "sentLink": "What happens next",
+    "fact1": "Free beta",
+    "fact2": "No bot in the call",
+    "fact3": "Apple Silicon Mac, macOS 26+",
+    "mockCaption": "Example: during a Zoom call the island under the notch shows the recording, the caption window shows each line as it is spoken, and the Highlights card on the right keeps updating.",
+    "mockMenu1": "Meeting",
+    "mockMenu2": "View",
+    "mockClock": "Fri 12:52",
+    "tabTalk": "Conversation",
+    "tabHigh": "Highlights",
+    "speakerA": "Anna",
+    "speakerB": "Speaker 2",
+    "mockL1": "We can ship the beta on Friday if QA signs off.",
+    "mockL2": "Deal. Let's meet on Thursday and check everything.",
+    "mockL3": "Great. I'll send the checklist tonight",
+    "highUpdated": "updated 12:52",
+    "labelDecision": "Decision",
+    "labelTask": "Task",
+    "labelNext": "Next step",
+    "labelQuestion": "Question",
+    "highDecisionText": "Beta ships on Friday if QA signs off",
+    "highTaskText": "Anna sends the checklist tonight",
+    "highNextText": "Call on Thursday, final check before release",
+    "ref1": "line 12:41",
+    "ref2": "line 12:52",
+    "ref3": "line 12:47",
+    "appsLead": "Works wherever you can hear the call:",
+    "apps": [
+      "Zoom",
+      "Google Meet",
+      "Microsoft Teams",
+      "Slack",
+      "WhatsApp",
+      "Telegram",
+      "FaceTime",
+      "Discord",
+      "Webex"
+    ],
+    "howH2": "Follow every word and stop taking notes yourself",
+    "f1Title": "Live captions on top of any app",
+    "f1Text": "The caption window stays above Zoom or Meet. Speech turns into text while people talk, and there is no language to choose first.",
+    "f2Title": "See who said what",
+    "f2Text": "Lines are split by voice during the call. Name a speaker in one click and the name stays in the recording.",
+    "f2L1": "The budget is approved until the end of the year.",
+    "f2L2": "Then we start with design.",
+    "f2L3": "Agreed, mockups by Friday.",
+    "f3Title": "Decisions and tasks collect themselves",
+    "f3Text": "Topic, summary, decisions, tasks and open questions update as the call goes on. Each item links to the line it came from.",
+    "f3DecisionText": "start with design",
+    "f3TaskText": "mockups by Friday",
+    "f3QuestionText": "who runs testing?",
+    "langH2": "25 languages, nothing to set up",
+    "langSub": "DialogTrack recognises each of these languages on its own. You pick nothing before the call. Choose a language to see a caption.",
+    "langPickAria": "Language of the sample caption",
+    "trTitle": "Live translation",
+    "trText": "Captions can be translated while you listen. English ↔ Russian works today. More pairs are added during the beta: tell us in the request which one you need.",
+    "afterTitle": "After the call",
+    "a1Title": "Archive by project",
+    "a1Text": "Search across the text and the translation. A timecode starts the audio from that moment.",
+    "a2Title": "Context for ChatGPT and Claude",
+    "a2Text": "One button copies the conversation with the date, project and timecodes. Paste it into a chat and keep working.",
+    "a3Title": "Export and screen recording",
+    "a3Text": "Text exports to TXT, SRT and VTT. You can record the whole screen or a selected area.",
+    "prH2": "The recording stays on your Mac",
+    "prSub": "Speech recognition, speaker separation, translation and summaries run on the computer itself. There is no server for a recording to leak to.",
+    "prMic": "Microphone",
+    "prAudio": "Call audio from any app",
+    "prMac": "Your Mac",
+    "prOffline": "works offline",
+    "prChip1": "Speech recognition",
+    "prChip2": "Speaker separation",
+    "prChip3": "Translation",
+    "prChip4": "Summaries and tasks",
+    "prArchive": "Audio and text in an archive on your disk",
+    "prFact1": "Internet is needed only to install the app and download language models.",
+    "prFact2": "App logs contain no conversation text.",
+    "prFact3": "Text reaches ChatGPT or Claude only if you paste it there yourself.",
+    "prConsent": "Tell people you are recording the call. It is polite, and in some countries it is required.",
+    "cmpH2": "How DialogTrack differs from cloud note-takers",
+    "cmpColBot": "Services with a bot",
+    "cmpColBotSub": "Otter, Fireflies, tl;dv",
+    "cmpColCloud": "Cloud, no bot",
+    "cmpColCloudSub": "Granola",
+    "cmpColUsSub": "on your Mac",
+    "cmpRows": [
+      {
+        "label": "Who joins the call",
+        "a": "A bot participant",
+        "b": "Nobody",
+        "c": "Nobody"
+      },
+      {
+        "label": "Where the recording is processed",
+        "a": "On the service's servers",
+        "b": "On the service's servers",
+        "c": "On your Mac"
+      },
+      {
+        "label": "Works offline",
+        "a": "No",
+        "b": "No",
+        "c": "Yes"
+      },
+      {
+        "label": "Live captions on top of any app",
+        "a": "Not stated",
+        "b": "Not stated",
+        "c": "Yes, in 25 languages"
+      }
+    ],
+    "cmpNote": "Based on the services' websites as of November 2026.",
+    "whoH2": "For people whose day is made of calls",
+    "who": [
+      {
+        "title": "You work across languages",
+        "text": "A call in German, Spanish or Polish comes with live captions, and a task list is left when it ends."
+      },
+      {
+        "title": "You run interviews and research",
+        "text": "Quotes with timecodes, lines split by voice, and the recordings stay with you."
+      },
+      {
+        "title": "You advise clients",
+        "text": "Confidential conversations stay off other people's servers, and no bot makes the client uneasy."
+      },
+      {
+        "title": "Your company bans cloud bots",
+        "text": "When security keeps bots out of calls, recording locally on your own Mac is the option that remains."
+      }
+    ],
+    "betaH2": "How to get into the beta",
+    "steps": [
+      {
+        "n": "1",
+        "title": "Leave a request",
+        "text": "Tell us where you take calls and which Mac you have. It takes a minute."
+      },
+      {
+        "n": "2",
+        "title": "Get an invitation",
+        "text": "We invite people in small waves and email a link to the Mac installer."
+      },
+      {
+        "n": "3",
+        "title": "Write to the developer directly",
+        "text": "In the closed beta chat you can report a problem or an idea and get an answer from the app's author."
+      }
+    ],
+    "priceTitle": "Pricing after the beta",
+    "freeName": "Free",
+    "freeNote": "Forever",
+    "freeItems": [
+      "Call and microphone recording",
+      "Live captions",
+      "Transcript and searchable archive"
+    ],
+    "proName": "Pro",
+    "proNote": "$[PRICE] a month or $[PRICE] a year",
+    "proItems": [
+      "Live translation",
+      "Highlights: decisions and tasks",
+      "Project context, SRT and VTT export",
+      "Screen recording"
+    ],
+    "founder": "Beta testers get Pro with a [DISCOUNT] founder discount for good.",
+    "faqH2": "Frequently asked questions",
+    "faq": [
+      {
+        "q": "Do I need an internet connection?",
+        "a": "Only to install the app and download language models. After that, recording, transcription, translation and summaries work offline."
+      },
+      {
+        "q": "Which Mac do I need?",
+        "a": "An Apple Silicon Mac (M1 or newer) with macOS 26 or later. The app does not run on Intel Macs."
+      },
+      {
+        "q": "Which languages are supported?",
+        "a": "Speech is recognised in 25 languages: Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Russian, Slovak, Slovenian, Spanish, Swedish and Ukrainian. Live translation works between English and Russian today, and more pairs are on the way."
+      },
+      {
+        "q": "Will the other people see that I am recording?",
+        "a": "Nobody joins the call: no bot and no extra participant. We still recommend telling people that you are recording. In some countries it is required."
+      },
+      {
+        "q": "How is this different from Otter or Granola?",
+        "a": "They process recordings on their servers. DialogTrack does everything on your Mac, shows live captions on top of any app and understands 25 languages."
+      },
+      {
+        "q": "How much does it cost?",
+        "a": "The beta is free. Afterwards a free version stays, and Pro will cost $[PRICE] a month. Beta testers get a founder discount.",
+        "price": true
+      },
+      {
+        "q": "When will I get my invitation?",
+        "a": "We open the beta in waves so that we can answer everyone. An email with the installer link goes to the address in your request."
+      }
+    ],
+    "sH2": "Join the DialogTrack beta",
+    "sSub": "The beta is free. Your answers help us invite you in the right wave.",
+    "sFormAria": "Detailed beta request",
+    "sEmail": "Email",
+    "sLangs": "Languages on your calls",
+    "sLangsPh": "English, German",
+    "sRole": "What you do",
+    "roles": [
+      "I work in an international team",
+      "I run interviews and research",
+      "I advise clients",
+      "I lead a team or a project",
+      "I sell or hire",
+      "I study",
+      "Other"
+    ],
+    "sMac": "Your Mac",
+    "macs": [
+      "Apple Silicon (M1 or newer)",
+      "Intel",
+      "Not sure"
+    ],
+    "sMacos": "macOS version",
+    "macoses": [
+      "macOS 26 or later",
+      "macOS 15",
+      "Earlier",
+      "Not sure"
+    ],
+    "sApps": "Where you take calls",
+    "formApps": [
+      "Zoom",
+      "Google Meet",
+      "Microsoft Teams",
+      "Slack",
+      "WhatsApp",
+      "Telegram",
+      "Other"
+    ],
+    "sConsent": "I agree to receive emails about the beta. Unsubscribe in one click.",
+    "sSubmit": "Send request",
+    "sSent": "Request received.",
+    "legalPre": "By sending the form you agree to the",
+    "legalLink": "privacy policy",
+    "legalPost": ".",
+    "footPrivacy": "Privacy policy",
+    "formError": "Your request could not be sent. Please try again.",
+    "formDemo": "This is a preview: the form is not connected yet, so nothing was sent.",
+    "emailExample": "you@example.com",
+    "translationPair": "EN → RU",
+    "copyright": "© 2026",
+    "timecodes": [
+      "12:52",
+      "12:41",
+      "12:47",
+      "04:02",
+      "04:12",
+      "04:20",
+      "06:03"
+    ]
+  },
+  "thanks": {
+    "langAria": "Site language",
+    "home": "Back to the site",
+    "h1": "You are on the beta list",
+    "lead": "We will email you when the next wave opens.",
+    "steps": [
+      {
+        "n": "1",
+        "title": "The invitation email",
+        "text": "It has a link to the Mac installer and a short guide: which permissions to grant and how to turn on meeting summaries."
+      },
+      {
+        "n": "2",
+        "title": "Your first call with captions",
+        "text": "Open DialogTrack before the call and press Record on the island under the notch."
+      },
+      {
+        "n": "3",
+        "title": "The closed beta chat",
+        "text": "There you can report a problem or an idea and get an answer from the app's author."
+      }
+    ],
+    "refTitle": "Want your invitation sooner?",
+    "refText": "Share the link with colleagues. Everyone who signs up through it moves you up the queue.",
+    "refLabel": "Your invitation link",
+    "copy": "Copy",
+    "copied": "Copied",
+    "refCount": "Invited through your link: 0",
+    "chTitle": "Development channel",
+    "chText": "Short videos of new features and beta news before anyone else.",
+    "chBtn": "Open the channel",
+    "leadTime": "Right now it takes about [TIME] from request to invitation."
+  }
+}

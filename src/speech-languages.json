@@ -1,0 +1,127 @@
+[
+  {
+    "code": "cs",
+    "name": "Čeština",
+    "sample": "Přesuňme spuštění na příští úterý."
+  },
+  {
+    "code": "da",
+    "name": "Dansk",
+    "sample": "Lad os flytte lanceringen til næste tirsdag."
+  },
+  {
+    "code": "de",
+    "name": "Deutsch",
+    "sample": "Verschieben wir den Launch auf nächsten Dienstag."
+  },
+  {
+    "code": "et",
+    "name": "Eesti",
+    "sample": "Lükkame käivitamise edasi järgmisele teisipäevale."
+  },
+  {
+    "code": "en",
+    "name": "English",
+    "sample": "Let's move the launch to next Tuesday."
+  },
+  {
+    "code": "es",
+    "name": "Español",
+    "sample": "Pasemos el lanzamiento al próximo martes."
+  },
+  {
+    "code": "fr",
+    "name": "Français",
+    "sample": "Reportons le lancement à mardi prochain."
+  },
+  {
+    "code": "hr",
+    "name": "Hrvatski",
+    "sample": "Pomaknimo lansiranje na sljedeći utorak."
+  },
+  {
+    "code": "it",
+    "name": "Italiano",
+    "sample": "Spostiamo il lancio a martedì prossimo."
+  },
+  {
+    "code": "lv",
+    "name": "Latviešu",
+    "sample": "Pārcelsim palaišanu uz nākamo otrdienu."
+  },
+  {
+    "code": "lt",
+    "name": "Lietuvių",
+    "sample": "Perkelkime paleidimą į kitą antradienį."
+  },
+  {
+    "code": "hu",
+    "name": "Magyar",
+    "sample": "Tegyük át az indulást jövő keddre."
+  },
+  {
+    "code": "mt",
+    "name": "Malti",
+    "sample": "Ejja nċaqalqu t-tnedija għal nhar it-Tlieta li ġej."
+  },
+  {
+    "code": "nl",
+    "name": "Nederlands",
+    "sample": "Laten we de lancering naar volgende week dinsdag verplaatsen."
+  },
+  {
+    "code": "pl",
+    "name": "Polski",
+    "sample": "Przesuńmy start na przyszły wtorek."
+  },
+  {
+    "code": "pt",
+    "name": "Português",
+    "sample": "Vamos adiar o lançamento para a próxima terça-feira."
+  },
+  {
+    "code": "ro",
+    "name": "Română",
+    "sample": "Să mutăm lansarea pe marțea viitoare."
+  },
+  {
+    "code": "sk",
+    "name": "Slovenčina",
+    "sample": "Presuňme spustenie na budúci utorok."
+  },
+  {
+    "code": "sl",
+    "name": "Slovenščina",
+    "sample": "Prestavimo zagon na naslednji torek."
+  },
+  {
+    "code": "fi",
+    "name": "Suomi",
+    "sample": "Siirretään julkaisu ensi tiistaille."
+  },
+  {
+    "code": "sv",
+    "name": "Svenska",
+    "sample": "Vi flyttar lanseringen till nästa tisdag."
+  },
+  {
+    "code": "el",
+    "name": "Ελληνικά",
+    "sample": "Ας μεταφέρουμε την κυκλοφορία για την επόμενη Τρίτη."
+  },
+  {
+    "code": "bg",
+    "name": "Български",
+    "sample": "Нека преместим старта за следващия вторник."
+  },
+  {
+    "code": "ru",
+    "name": "Русский",
+    "sample": "Давайте перенесём запуск на следующий вторник."
+  },
+  {
+    "code": "uk",
+    "name": "Українська",
+    "sample": "Перенесімо запуск на наступний вівторок."
+  }
+]

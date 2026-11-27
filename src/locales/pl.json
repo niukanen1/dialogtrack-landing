@@ -1,0 +1,317 @@
+{
+  "main": {
+    "navAria": "Sekcje strony",
+    "navHow": "Jak to działa",
+    "navLang": "Języki",
+    "navPrivacy": "Prywatność",
+    "navBeta": "Beta i ceny",
+    "navFaq": "Pytania",
+    "cta": "Dołącz do bety",
+    "langAria": "Język strony",
+    "h1a": "Twój Mac wyświetla napisy na żywo",
+    "h1mark": "w 25 językach",
+    "h1b": "podczas każdej rozmowy",
+    "heroSub": "DialogTrack nagrywa obie strony rozmowy w aplikacjach Zoom, Meet, Teams, WhatsApp i każdej innej. Pod wcięciem w ekranie widzisz napisy na żywo. Gdy kończysz rozmowę, masz już listę decyzji i zadań. Wszystko odbywa się na twoim komputerze Mac. Żadne nagranie go nie opuszcza.",
+    "heroFormAria": "Zgłoszenie do bety",
+    "emailLabel": "E-mail",
+    "heroBtn": "Dołącz do bety",
+    "sentHero": "Jesteś już na liście.",
+    "sentLink": "Co dalej",
+    "fact1": "Bezpłatna beta",
+    "fact2": "Bez bota w rozmowie",
+    "fact3": "Mac z Apple Silicon, macOS 26+",
+    "mockCaption": "Podczas rozmowy w aplikacji Zoom wyspa pod wcięciem w ekranie pokazuje, że trwa nagrywanie. W oknie napisów na bieżąco pojawiają się kolejne wypowiedzi. Po prawej aktualizuje się karta „Ustalenia”.",
+    "mockMenu1": "Spotkanie",
+    "mockMenu2": "Widok",
+    "mockClock": "pt. 12:52",
+    "tabTalk": "Rozmowa",
+    "tabHigh": "Ustalenia",
+    "speakerA": "Anna",
+    "speakerB": "Rozmówca 2",
+    "mockL1": "Jeśli QA da zielone światło, możemy wypuścić betę w piątek.",
+    "mockL2": "Zgoda. Spotkajmy się w czwartek i sprawdźmy wszystko.",
+    "mockL3": "Świetnie, dziś wieczorem wyślę listę kontrolną",
+    "highUpdated": "Aktualizacja 12:52",
+    "labelDecision": "Decyzja",
+    "labelTask": "Zadanie",
+    "labelNext": "Kolejny krok",
+    "labelQuestion": "Pytanie",
+    "highDecisionText": "Premiera bety w piątek, jeśli QA wyrazi zgodę",
+    "highTaskText": "Anna wyśle dziś wieczorem listę kontrolną",
+    "highNextText": "Rozmowa w czwartek, ostatni przegląd przed premierą",
+    "ref1": "wypowiedź 12:41",
+    "ref2": "wypowiedź 12:52",
+    "ref3": "wypowiedź 12:47",
+    "appsLead": "Działa wszędzie tam, gdzie słyszysz rozmowę:",
+    "apps": [
+      "Zoom",
+      "Google Meet",
+      "Microsoft Teams",
+      "Slack",
+      "WhatsApp",
+      "Telegram",
+      "FaceTime",
+      "Discord",
+      "Webex"
+    ],
+    "howH2": "Śledź każde słowo bez robienia notatek",
+    "f1Title": "Napisy na żywo nad każdą aplikacją",
+    "f1Text": "Okno napisów pozostaje nad oknem Zoom lub Meet. Wypowiedzi pojawiają się jako tekst już w trakcie rozmowy. Nie musisz wcześniej wybierać języka.",
+    "f2Title": "Zobacz, kto co powiedział",
+    "f2Text": "Aplikacja rozdziela wypowiedzi według głosu już w trakcie rozmowy. Jednym kliknięciem przypisujesz rozmówcy imię, które zostaje w nagraniu.",
+    "f2L1": "Mamy zatwierdzony budżet do końca roku.",
+    "f2L2": "To zacznijmy od projektu.",
+    "f2L3": "Zgoda, makiety na piątek.",
+    "f3Title": "Decyzje i zadania zapisują się same",
+    "f3Text": "Temat, podsumowanie, decyzje, zadania i otwarte pytania aktualizują się w trakcie rozmowy. Każdy punkt prowadzi do wypowiedzi, z której pochodzi.",
+    "f3DecisionText": "zacząć od projektu",
+    "f3TaskText": "makiety na piątek",
+    "f3QuestionText": "kto poprowadzi testy?",
+    "langH2": "25 języków bez konfiguracji",
+    "langSub": "DialogTrack sam rozpoznaje każdy z tych języków. Przed rozmową niczego nie wybierasz. Wybierz język tutaj, aby zobaczyć przykładowy napis.",
+    "langPickAria": "Język przykładowego napisu",
+    "trTitle": "Tłumaczenie na żywo",
+    "trText": "Możesz czytać tłumaczenie napisów w trakcie rozmowy. Już dziś działa para angielski ↔ rosyjski. W trakcie bety pojawią się kolejne pary. Napisz w zgłoszeniu, której potrzebujesz.",
+    "afterTitle": "Po rozmowie",
+    "a1Title": "Archiwum według projektów",
+    "a1Text": "Przeszukuj tekst i tłumaczenie. Kliknij znacznik czasu, aby odsłuchać nagranie od tego miejsca.",
+    "a2Title": "Kontekst dla ChatGPT i Claude",
+    "a2Text": "Jednym przyciskiem kopiujesz rozmowę z datą, projektem i znacznikami czasu. Wklej ją na czacie i pracuj dalej.",
+    "a3Title": "Eksport i nagrywanie ekranu",
+    "a3Text": "Zapisz tekst w formacie TXT, SRT lub VTT. Możesz nagrywać cały ekran lub wybrany obszar.",
+    "prH2": "Nagranie zostaje na twoim komputerze Mac",
+    "prSub": "Twój Mac rozpoznaje mowę, rozróżnia głosy, tłumaczy i tworzy podsumowania. Nie ma serwera, na który mogłoby trafić nagranie.",
+    "prMic": "Mikrofon",
+    "prAudio": "Dźwięk rozmowy z dowolnej aplikacji",
+    "prMac": "Twój Mac",
+    "prOffline": "działa bez internetu",
+    "prChip1": "Rozpoznawanie mowy",
+    "prChip2": "Rozróżnianie głosów",
+    "prChip3": "Tłumaczenie",
+    "prChip4": "Podsumowania i zadania",
+    "prArchive": "Dźwięk i tekst w archiwum na twoim dysku",
+    "prFact1": "Internet jest potrzebny tylko do instalacji aplikacji i pobrania modeli językowych.",
+    "prFact2": "W dziennikach aplikacji nie ma treści rozmów.",
+    "prFact3": "Tekst trafia do ChatGPT lub Claude tylko wtedy, gdy wkleisz go na czacie.",
+    "prConsent": "Powiedz pozostałym osobom, że nagrywasz rozmowę. Tego wymaga uprzejmość, a w niektórych krajach także prawo.",
+    "cmpH2": "Czym DialogTrack różni się od usług do notowania w chmurze",
+    "cmpColBot": "Usługi z botem",
+    "cmpColBotSub": "Otter, Fireflies, tl;dv",
+    "cmpColCloud": "Chmura bez bota",
+    "cmpColCloudSub": "Granola",
+    "cmpColUsSub": "na twoim komputerze Mac",
+    "cmpRows": [
+      {
+        "label": "Kto dołącza do rozmowy",
+        "a": "Bot jako uczestnik",
+        "b": "Nikt",
+        "c": "Nikt"
+      },
+      {
+        "label": "Gdzie przetwarzane jest nagranie",
+        "a": "Na serwerach usługodawcy",
+        "b": "Na serwerach usługodawcy",
+        "c": "Na twoim komputerze Mac"
+      },
+      {
+        "label": "Działa bez internetu",
+        "a": "Nie",
+        "b": "Nie",
+        "c": "Tak"
+      },
+      {
+        "label": "Napisy na żywo nad każdą aplikacją",
+        "a": "Brak informacji",
+        "b": "Brak informacji",
+        "c": "Tak, w 25 językach"
+      }
+    ],
+    "cmpNote": "Na podstawie stron usługodawców z listopada 2026 r.",
+    "whoH2": "Dla tych, którzy spędzają dzień na rozmowach",
+    "who": [
+      {
+        "title": "Pracujesz w kilku językach",
+        "text": "Podczas rozmowy po niemiecku, hiszpańsku lub polsku widzisz napisy na żywo. Na koniec masz listę zadań."
+      },
+      {
+        "title": "Prowadzisz wywiady i badania",
+        "text": "Masz cytaty ze znacznikami czasu i wypowiedzi rozdzielone według głosu. Nagrania zostają u ciebie."
+      },
+      {
+        "title": "Doradzasz klientom",
+        "text": "Poufne rozmowy nie trafiają na cudze serwery, a klient może rozmawiać swobodnie, bez bota."
+      },
+      {
+        "title": "Twoja firma zakazuje botów w chmurze",
+        "text": "Jeśli zasady bezpieczeństwa wykluczają boty z rozmów, nadal możesz nagrywać lokalnie na swoim komputerze Mac."
+      }
+    ],
+    "betaH2": "Jak dołączyć do bety",
+    "steps": [
+      {
+        "n": "1",
+        "title": "Wyślij zgłoszenie",
+        "text": "Napisz, z jakich aplikacji korzystasz do rozmów i jaki masz komputer Mac. Zajmie to minutę."
+      },
+      {
+        "n": "2",
+        "title": "Odbierz zaproszenie",
+        "text": "Zapraszamy małe grupy. Link do instalatora na komputer Mac dostaniesz e-mailem."
+      },
+      {
+        "n": "3",
+        "title": "Napisz bezpośrednio do twórcy",
+        "text": "Na zamkniętym czacie bety możesz zgłosić problem lub podzielić się pomysłem. Odpowie ci twórca aplikacji."
+      }
+    ],
+    "priceTitle": "Ceny po zakończeniu bety",
+    "freeName": "Bezpłatnie",
+    "freeNote": "Na zawsze",
+    "freeItems": [
+      "Nagrywanie rozmów i mikrofonu",
+      "Napisy na żywo",
+      "Transkrypcja i archiwum z wyszukiwarką"
+    ],
+    "proName": "Pro",
+    "proNote": "[CENA] zł miesięcznie lub [CENA] zł rocznie",
+    "proItems": [
+      "Tłumaczenie na żywo",
+      "Ustalenia: decyzje i zadania",
+      "Kontekst projektu, eksport do SRT i VTT",
+      "Nagrywanie ekranu"
+    ],
+    "founder": "Jeśli przetestujesz betę, zachowasz na zawsze zniżkę na start w wysokości [ZNIŻKA] na plan Pro.",
+    "faqH2": "Najczęstsze pytania",
+    "faq": [
+      {
+        "q": "Czy potrzebuję internetu?",
+        "a": "Tylko do instalacji aplikacji i pobrania modeli językowych. Potem nagrywanie, transkrypcja, tłumaczenie i podsumowania działają bez internetu."
+      },
+      {
+        "q": "Jaki Mac jest potrzebny?",
+        "a": "Mac z Apple Silicon (M1 lub nowszym) i systemem macOS 26 lub nowszym. Aplikacja nie działa na komputerach Mac z procesorem Intel."
+      },
+      {
+        "q": "Jakie języki obsługuje aplikacja?",
+        "a": "Rozpoznawanie mowy obejmuje 25 języków: angielski, bułgarski, chorwacki, czeski, duński, estoński, fiński, francuski, grecki, hiszpański, litewski, łotewski, maltański, niderlandzki, niemiecki, polski, portugalski, rosyjski, rumuński, słowacki, słoweński, szwedzki, ukraiński, węgierski i włoski. Tłumaczenie na żywo działa już między angielskim a rosyjskim. Kolejne pary są w przygotowaniu."
+      },
+      {
+        "q": "Czy inni zobaczą, że nagrywam?",
+        "a": "Do rozmowy nie dołącza ani bot, ani dodatkowy uczestnik. Mimo to warto powiedzieć innym, że nagrywasz. W niektórych krajach jest to obowiązkowe."
+      },
+      {
+        "q": "Czym to się różni od Otter lub Granola?",
+        "a": "Te usługi przetwarzają nagrania na swoich serwerach. DialogTrack robi wszystko na twoim komputerze Mac, wyświetla napisy na żywo nad każdą aplikacją i rozumie 25 języków."
+      },
+      {
+        "q": "Ile to kosztuje?",
+        "a": "Beta jest bezpłatna. Później nadal będzie dostępna darmowa wersja, a plan Pro będzie kosztował [CENA] zł miesięcznie. Uczestnicy bety dostaną zniżkę na start.",
+        "price": true
+      },
+      {
+        "q": "Kiedy dostanę zaproszenie?",
+        "a": "Zapraszamy do bety grupami, żeby móc każdemu odpowiedzieć. Link do instalatora wyślemy na adres e-mail podany w zgłoszeniu."
+      }
+    ],
+    "sH2": "Dołącz do bety DialogTrack",
+    "sSub": "Beta jest bezpłatna. Twoje odpowiedzi pomogą nam zaprosić cię z odpowiednią grupą.",
+    "sFormAria": "Szczegółowe zgłoszenie do bety",
+    "sEmail": "E-mail",
+    "sLangs": "Języki twoich rozmów",
+    "sLangsPh": "polski, angielski",
+    "sRole": "Czym się zajmujesz",
+    "roles": [
+      "Pracuję w międzynarodowym zespole",
+      "Prowadzę wywiady i badania",
+      "Doradzam klientom",
+      "Kieruję zespołem lub projektem",
+      "Zajmuję się sprzedażą lub rekrutacją",
+      "Studiuję",
+      "Inne"
+    ],
+    "sMac": "Twój Mac",
+    "macs": [
+      "Apple Silicon (M1 lub nowszy)",
+      "Intel",
+      "Nie wiem"
+    ],
+    "sMacos": "Wersja macOS",
+    "macoses": [
+      "macOS 26 lub nowszy",
+      "macOS 15",
+      "Wcześniejsza",
+      "Nie wiem"
+    ],
+    "sApps": "Aplikacje do rozmów",
+    "formApps": [
+      "Zoom",
+      "Google Meet",
+      "Microsoft Teams",
+      "Slack",
+      "WhatsApp",
+      "Telegram",
+      "Inne"
+    ],
+    "sConsent": "Zgadzam się na e-maile dotyczące bety. Mogę z nich zrezygnować jednym kliknięciem.",
+    "sSubmit": "Wyślij zgłoszenie",
+    "sSent": "Zgłoszenie przyjęte.",
+    "legalPre": "Wysyłając formularz, akceptujesz",
+    "legalLink": "politykę prywatności",
+    "legalPost": ".",
+    "footPrivacy": "Polityka prywatności",
+    "formError": "Nie udało się wysłać zgłoszenia. Spróbuj ponownie.",
+    "formDemo": "To podgląd: formularz nie jest jeszcze podłączony, nic nie zostało wysłane.",
+    "emailExample": "you@example.com",
+    "translationPair": "EN → RU",
+    "copyright": "© 2026",
+    "timecodes": [
+      "12:52",
+      "12:41",
+      "12:47",
+      "04:02",
+      "04:12",
+      "04:20",
+      "06:03"
+    ]
+  },
+  "thanks": {
+    "langAria": "Język strony",
+    "home": "Wróć na stronę",
+    "h1": "Jesteś na liście uczestników bety",
+    "lead": "Napiszemy, gdy zaczniemy zapraszać kolejną grupę.",
+    "steps": [
+      {
+        "n": "1",
+        "title": "E-mail z zaproszeniem",
+        "text": "Znajdziesz w nim link do instalatora na komputer Mac i krótką instrukcję, jakich uprawnień udzielić i jak włączyć podsumowania spotkań."
+      },
+      {
+        "n": "2",
+        "title": "Twoja pierwsza rozmowa z napisami",
+        "text": "Przed rozmową otwórz DialogTrack i kliknij „Nagrywaj” na wyspie pod wcięciem w ekranie."
+      },
+      {
+        "n": "3",
+        "title": "Zamknięty czat bety",
+        "text": "Możesz tam zgłosić problem lub podzielić się pomysłem i dostać odpowiedź od twórcy aplikacji."
+      }
+    ],
+    "refTitle": "Chcesz dostać zaproszenie wcześniej?",
+    "refText": "Udostępnij link współpracownikom. Każda osoba, która się przez niego zapisze, przesuwa cię w górę kolejki.",
+    "refLabel": "Twój link z zaproszeniem",
+    "copy": "Kopiuj",
+    "copied": "Skopiowano",
+    "refCount": "Osoby zaproszone z twojego linku: 0",
+    "chTitle": "Kanał z postępami prac",
+    "chText": "Zobacz krótkie filmy o nowych funkcjach i poznaj wiadomości z bety przed innymi.",
+    "chBtn": "Otwórz kanał",
+    "leadTime": "Orientacyjny czas od zgłoszenia do zaproszenia to teraz [CZAS]."
+  },
+  "seo": {
+    "title": "Notatki AI i napisy na żywo na Macu | DialogTrack",
+    "description": "DialogTrack wyświetla napisy na żywo w 25 językach w rozmowach na Macu w Zoom, Meet, Teams i innych aplikacjach. Lokalnie, bez bota. Dołącz do bety za darmo.",
+    "ogTitle": "Napisy na żywo w 25 językach podczas każdej rozmowy na Macu",
+    "ogLine": "Na Macu · Bez bota · Bezpłatna beta",
+    "thanksTitle": "Jesteś na liście uczestników bety | DialogTrack"
+  }
+}

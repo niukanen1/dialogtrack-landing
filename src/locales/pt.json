@@ -1,0 +1,317 @@
+{
+  "main": {
+    "navAria": "Seções da página",
+    "navHow": "Como funciona",
+    "navLang": "Idiomas",
+    "navPrivacy": "Privacidade",
+    "navBeta": "Beta e preços",
+    "navFaq": "Perguntas frequentes",
+    "cta": "Participar do beta",
+    "langAria": "Idioma do site",
+    "h1a": "Legendas ao vivo",
+    "h1mark": "em 25 idiomas",
+    "h1b": "para cada chamada no seu Mac",
+    "heroSub": "O DialogTrack grava sua voz e a de quem fala com você no Zoom, Meet, Teams, WhatsApp ou em qualquer outro app. As legendas aparecem ao vivo sob o recorte da tela. Quando você desliga, as decisões e tarefas já estão anotadas. Tudo roda no seu Mac. Nenhuma gravação sai dele.",
+    "heroFormAria": "Inscrição no beta",
+    "emailLabel": "E-mail",
+    "heroBtn": "Participar do beta",
+    "sentHero": "Você está na lista.",
+    "sentLink": "Veja os próximos passos",
+    "fact1": "Beta gratuito",
+    "fact2": "Sem bot na chamada",
+    "fact3": "Mac com Apple Silicon, macOS 26+",
+    "mockCaption": "Durante uma chamada no Zoom, a ilha sob o recorte da tela indica que a gravação está em andamento. Na janela de legendas, você acompanha cada fala em tempo real. À direita, o cartão “Pontos principais” se atualiza ao longo da conversa.",
+    "mockMenu1": "Reunião",
+    "mockMenu2": "Visualizar",
+    "mockClock": "sex. 12:52",
+    "tabTalk": "Conversa",
+    "tabHigh": "Pontos principais",
+    "speakerA": "Anna",
+    "speakerB": "Pessoa 2",
+    "mockL1": "Se a equipe de QA aprovar, dá para lançar o beta na sexta.",
+    "mockL2": "Combinado. Vamos nos reunir na quinta para conferir tudo.",
+    "mockL3": "Ótimo, mando a lista de verificação hoje à noite",
+    "highUpdated": "Atualizado às 12:52",
+    "labelDecision": "Decisão",
+    "labelTask": "Tarefa",
+    "labelNext": "Próximo passo",
+    "labelQuestion": "Pergunta",
+    "highDecisionText": "O beta sai na sexta se a equipe de QA aprovar",
+    "highTaskText": "Anna envia a lista de verificação hoje à noite",
+    "highNextText": "Chamada na quinta para a revisão final antes do lançamento",
+    "ref1": "fala das 12:41",
+    "ref2": "fala das 12:52",
+    "ref3": "fala das 12:47",
+    "appsLead": "Funciona onde você consegue ouvir a chamada:",
+    "apps": [
+      "Zoom",
+      "Google Meet",
+      "Microsoft Teams",
+      "Slack",
+      "WhatsApp",
+      "Telegram",
+      "FaceTime",
+      "Discord",
+      "Webex"
+    ],
+    "howH2": "Acompanhe cada palavra sem precisar anotar",
+    "f1Title": "Legendas ao vivo por cima de qualquer app",
+    "f1Text": "A janela de legendas fica por cima do Zoom ou do Meet. Você lê o que cada pessoa diz enquanto ela fala, sem precisar escolher o idioma antes.",
+    "f2Title": "Veja quem disse o quê",
+    "f2Text": "O app separa as falas por voz durante a chamada. Com um clique, você dá um nome a quem está falando. O nome fica na gravação.",
+    "f2L1": "O orçamento está aprovado até o fim do ano.",
+    "f2L2": "Então vamos começar pelo design.",
+    "f2L3": "Fechado, layouts prontos até sexta.",
+    "f3Title": "Decisões e tarefas são anotadas automaticamente",
+    "f3Text": "O assunto, o resumo, as decisões, as tarefas e as perguntas em aberto são atualizados ao longo da chamada. Cada item tem um link para a fala de origem.",
+    "f3DecisionText": "começar pelo design",
+    "f3TaskText": "layouts até sexta",
+    "f3QuestionText": "quem vai cuidar dos testes?",
+    "langH2": "25 idiomas sem configurar nada",
+    "langSub": "O DialogTrack reconhece cada um desses idiomas automaticamente. Você não precisa selecionar nada antes da chamada. Escolha um idioma para ver um exemplo de legenda.",
+    "langPickAria": "Idioma da legenda de exemplo",
+    "trTitle": "Tradução ao vivo",
+    "trText": "Você pode ler a tradução das legendas enquanto escuta. A tradução inglês ↔ russo já funciona. Outros pares de idiomas serão adicionados durante o beta. Conte na inscrição de qual você precisa.",
+    "afterTitle": "Depois da chamada",
+    "a1Title": "Arquivo por projeto",
+    "a1Text": "Busque no texto e na tradução. Clique em uma marcação de tempo para ouvir o áudio a partir daquele ponto.",
+    "a2Title": "Contexto para ChatGPT e Claude",
+    "a2Text": "Um botão copia a conversa com a data, o projeto e as marcações de tempo. Cole tudo em um chat para continuar o trabalho.",
+    "a3Title": "Exportação e gravação de tela",
+    "a3Text": "Exporte o texto em TXT, SRT ou VTT. Você pode gravar a tela inteira ou só a área que selecionar.",
+    "prH2": "A gravação fica no seu Mac",
+    "prSub": "Seu Mac reconhece a fala, separa as vozes, traduz e faz os resumos. Não há servidor para onde a gravação possa vazar.",
+    "prMic": "Microfone",
+    "prAudio": "Áudio de chamadas de qualquer app",
+    "prMac": "Seu Mac",
+    "prOffline": "funciona offline",
+    "prChip1": "Reconhecimento de fala",
+    "prChip2": "Separação de vozes",
+    "prChip3": "Tradução",
+    "prChip4": "Resumos e tarefas",
+    "prArchive": "Áudio e texto arquivados no seu disco",
+    "prFact1": "Você só precisa de internet para instalar o app e baixar os modelos de idioma.",
+    "prFact2": "Os registros do app não contêm o texto das conversas.",
+    "prFact3": "O texto só chega ao ChatGPT ou ao Claude se você colar a conversa lá.",
+    "prConsent": "Avise as outras pessoas que você está gravando a chamada. É uma questão de cortesia e, em alguns países, é obrigatório.",
+    "cmpH2": "Como o DialogTrack se compara aos serviços de notas na nuvem",
+    "cmpColBot": "Serviços com bot",
+    "cmpColBotSub": "Otter, Fireflies, tl;dv",
+    "cmpColCloud": "Nuvem sem bot",
+    "cmpColCloudSub": "Granola",
+    "cmpColUsSub": "no seu Mac",
+    "cmpRows": [
+      {
+        "label": "Quem entra na chamada",
+        "a": "Um bot",
+        "b": "Ninguém",
+        "c": "Ninguém"
+      },
+      {
+        "label": "Onde a gravação é processada",
+        "a": "Nos servidores do serviço",
+        "b": "Nos servidores do serviço",
+        "c": "No seu Mac"
+      },
+      {
+        "label": "Funciona offline",
+        "a": "Não",
+        "b": "Não",
+        "c": "Sim"
+      },
+      {
+        "label": "Legendas ao vivo por cima de qualquer app",
+        "a": "Não informado",
+        "b": "Não informado",
+        "c": "Sim, em 25 idiomas"
+      }
+    ],
+    "cmpNote": "Com base nos sites dos serviços em novembro de 2026.",
+    "whoH2": "Para quem passa o dia em chamadas",
+    "who": [
+      {
+        "title": "Você trabalha em vários idiomas",
+        "text": "Durante uma chamada em alemão, espanhol ou polonês, você acompanha as legendas ao vivo. No fim, fica com uma lista de tarefas."
+      },
+      {
+        "title": "Você faz entrevistas e pesquisas",
+        "text": "Você tem citações com marcações de tempo e falas separadas por voz. As gravações ficam com você."
+      },
+      {
+        "title": "Você presta consultoria",
+        "text": "As conversas confidenciais ficam fora de servidores de terceiros e nenhum bot deixa o cliente desconfortável."
+      },
+      {
+        "title": "Sua empresa proíbe bots na nuvem",
+        "text": "Se as regras de segurança impedem o uso de bots nas chamadas, ainda dá para gravar localmente no seu Mac."
+      }
+    ],
+    "betaH2": "Como participar do beta",
+    "steps": [
+      {
+        "n": "1",
+        "title": "Faça sua inscrição",
+        "text": "Conte quais apps você usa para chamadas e qual é o seu Mac. Leva um minuto."
+      },
+      {
+        "n": "2",
+        "title": "Receba o convite",
+        "text": "Convidamos poucas pessoas por vez. Você recebe por e-mail o link do instalador para Mac."
+      },
+      {
+        "n": "3",
+        "title": "Fale direto com o desenvolvedor",
+        "text": "No chat fechado do beta, você pode relatar um problema ou sugerir uma ideia. Quem responde é o próprio desenvolvedor."
+      }
+    ],
+    "priceTitle": "Preços após o beta",
+    "freeName": "Grátis",
+    "freeNote": "Para sempre",
+    "freeItems": [
+      "Gravação da chamada e do microfone",
+      "Legendas ao vivo",
+      "Transcrição e arquivo com busca"
+    ],
+    "proName": "Pro",
+    "proNote": "R$ [PREÇO] por mês ou R$ [PREÇO] por ano",
+    "proItems": [
+      "Tradução ao vivo",
+      "Pontos principais: decisões e tarefas",
+      "Contexto do projeto, exportação em SRT e VTT",
+      "Gravação de tela"
+    ],
+    "founder": "Quem testar o beta mantém para sempre o desconto de lançamento de [DESCONTO] no Pro.",
+    "faqH2": "Perguntas frequentes",
+    "faq": [
+      {
+        "q": "Preciso de conexão com a internet?",
+        "a": "Só para instalar o app e baixar os modelos de idioma. Depois disso, a gravação, a transcrição, a tradução e os resumos funcionam offline."
+      },
+      {
+        "q": "De qual Mac eu preciso?",
+        "a": "Um Mac com Apple Silicon (M1 ou mais recente) e macOS 26 ou posterior. O app não roda em modelos de Mac com Intel."
+      },
+      {
+        "q": "Quais idiomas o app reconhece?",
+        "a": "O app reconhece a fala em 25 idiomas: alemão, búlgaro, croata, dinamarquês, eslovaco, esloveno, espanhol, estoniano, finlandês, francês, grego, holandês, húngaro, inglês, italiano, letão, lituano, maltês, polonês, português, romeno, russo, sueco, tcheco e ucraniano. A tradução ao vivo já funciona entre inglês e russo, e outros pares de idiomas estão a caminho."
+      },
+      {
+        "q": "As outras pessoas vão ver que estou gravando?",
+        "a": "Ninguém entra na chamada, nem bot nem participante extra. Mesmo assim, recomendamos avisar que você está gravando. Em alguns países isso é obrigatório."
+      },
+      {
+        "q": "Qual a diferença em relação ao Otter ou ao Granola?",
+        "a": "Esses serviços processam as gravações nos próprios servidores. O DialogTrack faz tudo no seu Mac, exibe legendas ao vivo por cima de qualquer app e entende 25 idiomas."
+      },
+      {
+        "q": "Quanto custa?",
+        "a": "O beta é gratuito. Depois, a versão gratuita continua disponível e o Pro vai custar R$ [PREÇO] por mês. Quem testar o beta terá um desconto de lançamento.",
+        "price": true
+      },
+      {
+        "q": "Quando vou receber meu convite?",
+        "a": "Convidamos por grupos para conseguir responder a todas as pessoas. Enviamos o link do instalador para o endereço de e-mail da sua inscrição."
+      }
+    ],
+    "sH2": "Participe do beta do DialogTrack",
+    "sSub": "O beta é gratuito. Suas respostas ajudam a escolher o grupo certo para convidar você.",
+    "sFormAria": "Inscrição detalhada no beta",
+    "sEmail": "E-mail",
+    "sLangs": "Idiomas das suas chamadas",
+    "sLangsPh": "português, inglês",
+    "sRole": "O que você faz",
+    "roles": [
+      "Trabalho em uma equipe internacional",
+      "Faço entrevistas e pesquisas",
+      "Presto consultoria a clientes",
+      "Lidero uma equipe ou um projeto",
+      "Trabalho com vendas ou recrutamento",
+      "Estudo",
+      "Outro"
+    ],
+    "sMac": "Seu Mac",
+    "macs": [
+      "Apple Silicon (M1 ou mais recente)",
+      "Intel",
+      "Não sei"
+    ],
+    "sMacos": "Versão do macOS",
+    "macoses": [
+      "macOS 26 ou posterior",
+      "macOS 15",
+      "Anterior",
+      "Não sei"
+    ],
+    "sApps": "Apps que você usa nas chamadas",
+    "formApps": [
+      "Zoom",
+      "Google Meet",
+      "Microsoft Teams",
+      "Slack",
+      "WhatsApp",
+      "Telegram",
+      "Outro"
+    ],
+    "sConsent": "Aceito receber e-mails sobre o beta. Posso cancelar a inscrição com um clique.",
+    "sSubmit": "Enviar inscrição",
+    "sSent": "Inscrição recebida.",
+    "legalPre": "Ao enviar o formulário, você concorda com a",
+    "legalLink": "política de privacidade",
+    "legalPost": ".",
+    "footPrivacy": "Política de privacidade",
+    "formError": "Não foi possível enviar sua inscrição. Tente novamente.",
+    "formDemo": "Esta é uma prévia: o formulário ainda não está conectado, nada foi enviado.",
+    "emailExample": "you@example.com",
+    "translationPair": "EN → RU",
+    "copyright": "© 2026",
+    "timecodes": [
+      "12:52",
+      "12:41",
+      "12:47",
+      "04:02",
+      "04:12",
+      "04:20",
+      "06:03"
+    ]
+  },
+  "thanks": {
+    "langAria": "Idioma do site",
+    "home": "Voltar ao site",
+    "h1": "Você está na lista do beta",
+    "lead": "Vamos enviar um e-mail quando abrirmos o próximo grupo.",
+    "steps": [
+      {
+        "n": "1",
+        "title": "O e-mail de convite",
+        "text": "Ele traz o link do instalador para Mac e um guia rápido sobre quais permissões conceder e como ativar os resumos das reuniões."
+      },
+      {
+        "n": "2",
+        "title": "Sua primeira chamada com legendas",
+        "text": "Abra o DialogTrack antes da chamada e clique em “Gravar” na ilha sob o recorte da tela."
+      },
+      {
+        "n": "3",
+        "title": "O chat fechado do beta",
+        "text": "Você pode relatar um problema ou sugerir uma ideia e receber uma resposta de quem desenvolveu o app."
+      }
+    ],
+    "refTitle": "Quer receber o convite mais cedo?",
+    "refText": "Compartilhe o link com seus colegas. Cada pessoa que se inscrever por ele faz você avançar na fila.",
+    "refLabel": "Seu link de convite",
+    "copy": "Copiar",
+    "copied": "Copiado",
+    "refCount": "Convites pelo seu link: 0",
+    "chTitle": "Canal de desenvolvimento",
+    "chText": "Veja vídeos curtos sobre as novas funções e receba as notícias do beta em primeira mão.",
+    "chBtn": "Abrir o canal",
+    "leadTime": "Hoje, o prazo entre a inscrição e o convite é de cerca de [TEMPO]."
+  },
+  "seo": {
+    "title": "Notas com IA e legendas ao vivo para Mac | DialogTrack",
+    "description": "O DialogTrack exibe legendas ao vivo em 25 idiomas no Zoom, Meet, Teams e em qualquer chamada no seu Mac. Tudo no aparelho, sem bot. Participe do beta grátis.",
+    "ogTitle": "Legendas ao vivo em 25 idiomas para todas as suas chamadas no Mac",
+    "ogLine": "No seu Mac · Sem bot · Beta grátis",
+    "thanksTitle": "Você está na lista do beta | DialogTrack"
+  }
+}
