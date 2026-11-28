@@ -18,8 +18,9 @@ export const site = {
   /** @type {Record<string, string>} */
   ogLocale: { en: 'en_US', de: 'de_DE', es: 'es_ES', fr: 'fr_FR', it: 'it_IT', pl: 'pl_PL', pt: 'pt_BR', ru: 'ru_RU' },
   url: origin.origin, base, domain: env.SITE_DOMAIN || '', email: 'hello@' + origin.hostname, port: 4182,
-  // Search engines may index the site only on its own domain. Any other address is a preview copy.
-  indexable: Boolean(env.SITE_DOMAIN),
+  // Search engines may index the site only on its own domain and only after launch (SITE_LIVE=1).
+  // Until then every address, the domain included, serves a noindex preview.
+  indexable: Boolean(env.SITE_DOMAIN) && env.SITE_LIVE === '1',
   form: { id: 'dialogtrack', endpoint: env.VITE_FORM_ENDPOINT || '', turnstileSiteKey: env.VITE_TURNSTILE_SITEKEY || '' },
   privacyDraft: true, features: { pricing: env.SITE_PRICING !== '0', inviteTime: false },
 }

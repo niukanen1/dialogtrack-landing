@@ -169,7 +169,8 @@ console.log('PASS: 17 prerendered pages, 404, locale links, SEO, FAQ, images, fo
 if (release) {
   const issues = []
   if (new URL(site.url).hostname.endsWith('.example')) issues.push('Placeholder site URL: ' + site.url)
-  if (!site.indexable) issues.push('No custom domain (SITE_DOMAIN): this build is a noindex preview.')
+  if (!site.domain) issues.push('No custom domain (SITE_DOMAIN).')
+  if (!site.indexable) issues.push('SITE_LIVE is not 1: this build is a noindex preview.')
   if (tokens.size) issues.push('Visible bracket placeholders: ' + [...tokens].sort().join(', '))
   if (demoMode || !site.form.endpoint) issues.push('Form endpoint is not configured (VITE_FORM_ENDPOINT).')
   if (privacyDraft || site.privacyDraft) issues.push('Privacy policy is still a draft.')

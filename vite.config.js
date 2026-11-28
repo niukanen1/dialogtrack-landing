@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 
-const keys = ['SITE_URL', 'SITE_DOMAIN', 'SITE_BASE_PATH', 'SITE_PRICING', 'VITE_FORM_ENDPOINT', 'VITE_TURNSTILE_SITEKEY']
+const keys = ['SITE_URL', 'SITE_DOMAIN', 'SITE_LIVE', 'SITE_BASE_PATH', 'SITE_PRICING', 'VITE_FORM_ENDPOINT', 'VITE_TURNSTILE_SITEKEY']
 export default defineConfig({
   base: process.env.SITE_BASE_PATH || '/',
   plugins: [vue()],

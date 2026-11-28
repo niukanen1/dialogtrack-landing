@@ -43,7 +43,7 @@ describe('localized landing pages', () => {
       assert.ok(html.includes('hreflang="x-default" href="' + site.url + site.base + '"'), 'x-default')
       assert.equal(html.match(/rel="alternate"/g)?.length, 9)
       const robots = site.indexable ? 'index,follow,max-image-preview:large' : 'noindex,follow'
-      assert.ok(html.includes('name="robots" content="' + robots + '"'), 'only a build with its own domain is indexable')
+      assert.ok(html.includes('name="robots" content="' + robots + '"'), 'only a launched build on its own domain is indexable')
       assert.ok(html.includes('property="og:image:alt"') && html.includes('name="twitter:image:alt"'), 'image alt')
       const json = html.split('<script type="application/ld+json">')[1].split('</script>')[0]
       const graph = JSON.parse(json)['@graph']
